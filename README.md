@@ -1,1 +1,3 @@
 # DataBasePHPClass
+
+# Подключение класса
