@@ -1,4 +1,4 @@
-<?php
+<?php 
 class DB_class 
 {
 	private $db_host,$db_name,$db_user,$db_pass,$db;
